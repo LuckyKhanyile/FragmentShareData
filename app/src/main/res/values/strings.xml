@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FragmentShareData</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="listFragmentText">List Fragment</string>
+    <string name="detailFragementText">Detail Fragment</string>
+    <string name="listError_Text_Holder">There was an error retrieving the results</string>
+</resources>
